@@ -1,0 +1,30 @@
+# Engineering Journal — Entry 001
+
+**Date:** 25 October 2026
+**Project:** Desktop Programmable Robotic Arm
+**Phase:** Initial Planning and Requirements
+
+## Project Objective
+Design and build a desktop programmable robotic arm capable of precisely positioning objects and assisting with electronics work.
+
+## Initial Requirements
+- Target payload: 200–500 g
+- Working reach: 25–30 cm
+- Applications: PCB holding, magnifying lens positioning, and equipment manipulation
+- Planned control interfaces: Computer, joystick, and web dashboard
+- Design approach: Build and design most components independently
+
+## Progress
+- Established the initial mechanical requirements
+- Created a GitHub repository
+- Created a GitHub Project board
+- Created Issue #1 to track mechanical requirements
+
+## Next Steps
+- Determine initial degrees of freedom
+- Calculate shoulder and elbow torque
+- Create free-body diagrams
+- Begin parametric CAD design
+
+## Reflections
+To be updated as design work progresses.
