@@ -9,6 +9,7 @@
 Develop a parametric mechanical skeleton that establishes the robotic arm's geometry, joint positions, and coordinate system before designing individual mechanical components.
 
 ## 2. Work Completed
+<img width="821" height="359" alt="image" src="https://github.com/user-attachments/assets/08bd9ee0-f9c6-4ad4-a805-2de89dceab9d" />
 
 ### Mechanical Design Development
 
